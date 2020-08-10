@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**iyear/iyear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+高中生 | 垃圾Coder | 喜欢折腾Telebot
 
-Here are some ideas to get you started:
+Github: [iyear](https://github.com/iyear)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Telegram: [@xixilll](https://t.me/xixilll)
+
+Gmail: ljyngup@gmail.com
+
+### What I am doing?
+
+😄Do some interesting projects,like `telegram bot` 
+
+🌱Explore anything 
+
+🔭Coding with thinking
+
+I will often star some interesting projects, so you can follow me~
+
+Below is my card, of course it still looks poor.But I will continue to learning.
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iyear&show_icons=true&theme=vue)
