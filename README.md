@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-高中生 | 垃圾Coder | 喜欢折腾Telebot
+高中生
 
 Github: [iyear](https://github.com/iyear)
 
