@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-高中生
+Senior High School Student
 
 Github: [iyear](https://github.com/iyear)
 
