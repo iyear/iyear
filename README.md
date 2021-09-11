@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Senior High School Student
+College students
 
 Github: [iyear](https://github.com/iyear)
 
@@ -10,11 +10,11 @@ Gmail: ljyngup@gmail.com
 
 ### What I am doing?
 
-😄Do some interesting projects,like `telegram bot` 
+😄Do some interesting things
 
 🌱Explore anything 
 
-🔭Coding with thinking
+🔭Coding...
 
 I will often star some interesting projects, so you can follow me~
 
