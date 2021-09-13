@@ -8,6 +8,8 @@ Telegram: [@xixilll](https://t.me/xixilll)
 
 Gmail: ljyngup@gmail.com
 
+Channel: https://t.me/iyear
+
 ### What I am doing?
 
 😄Do some interesting things
