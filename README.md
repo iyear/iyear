@@ -4,8 +4,6 @@ College students
 
 Github: [iyear](https://github.com/iyear)
 
-Telegram: [@xixilll](https://t.me/xixilll)
-
 Gmail: ljyngup@gmail.com
 
 Channel: https://t.me/iyear
