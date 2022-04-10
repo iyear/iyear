@@ -4,11 +4,12 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=iyear&show_icons=true&icon_color=0366d6&bg_color=ffffff&count_private=true&hide_title=true&include_all_commits=true" alt="iyear's github stats"/>
 
 - 🐭 Gopher Forever
+- 🪀 **Toy Engineer**
 - 🏬 HDU Freshman
 - 🧑 Member of [HDUHELP](https://github.com/hduhelp)
 - 🕹 Always Expore Interesting Things
 - ✒️ [You Can Visit My Blog](https://blog.ljyngup.com)
-- ⭐ At *2021.12.31*, Total Stars Reached **1k**
+- ⭐ At *2021.12.31*, Total Stars Reached 1k
 - 🛣️ On the Way to *Cloud Native* and *Architect*
 - ❤️ **BE PURE BE COOL**
 
@@ -37,7 +38,6 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=Windows%20Terminal&logoColor=white)
 
 ### Tools
 ![AMD](https://img.shields.io/badge/amd-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white)
@@ -50,17 +50,9 @@
 ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23FF9800.svg?&style=for-the-badge&logo=sublime%20text&logoColor=white)
 ![Notion](https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 ![Chrome](https://img.shields.io/badge/google%20chrome-%234285F4.svg?&style=for-the-badge&logo=google%20chrome&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=Windows%20Terminal&logoColor=white)
 
 ![Windows](https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)
 ![Debian](https://img.shields.io/badge/debian-%23A81D33.svg?&style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-%23E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23A22846.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white)
-
-![Stack Overflow](https://img.shields.io/badge/stack%20overflow-%23F58025.svg?&style=for-the-badge&logo=stack%20overflow&logoColor=white)
-![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?&style=for-the-badge&logo=bitwarden&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?&style=for-the-badge&logo=gitHub%20actions&logoColor=white)
-![CloudFlare](https://img.shields.io/badge/cloudflare-%23F38020.svg?&style=for-the-badge&logo=cloudflare&logoColor=white)
-![jsDelivr](https://img.shields.io/badge/jsdelivr-%23E84D3D.svg?&style=for-the-badge&logo=jsdelivr&logoColor=white)
-![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?&style=for-the-badge&logo=tampermonkey&logoColor=white)
-![Magisk](https://img.shields.io/badge/magisk-%2300AF9C.svg?&style=for-the-badge&logo=magisk&logoColor=white)
-
