@@ -6,7 +6,7 @@
 - 🐭 Gopher Forever
 - 🪀 **Toy Engineer**
 - 🏬 HDU Freshman
-- 🧑 Member of [HDUHELP](https://github.com/hduhelp)
+- 🧑 Core of [HDUHELP](https://github.com/hduhelp)
 - 🕹 Always Expore Interesting Things
 - ✒️ [You Can Visit My Blog](https://blog.ljyngup.com)
 - ⭐ At *2021.12.31*, Total Stars Reached 1k
