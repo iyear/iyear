@@ -7,10 +7,8 @@
 - 🪀 **Toy Engineer**
 - 🏬 HDU Freshman
 - 🧑 Core of [HDUHELP](https://github.com/hduhelp)
-- 🕹 Always Expore Interesting Things
 - ✒️ [You Can Visit My Blog](https://blog.ljyngup.com)
 - 📺 [My Telegram Channel](https://t.me/iyear)
-- ⭐ At *2021.12.31*, Total Stars Reached 1k
 - 🛣️ On the Way to *Cloud Native* and *Architect*
 - ❤️ **BE PURE BE COOL**
 
