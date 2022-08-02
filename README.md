@@ -9,7 +9,7 @@
 - 🧑 Core of [HDUHELP](https://github.com/hduhelp)
 - ✒️ [My Blog](https://blog.ljyngup.com)
 - 📺 [My Telegram Channel](https://t.me/iyear)
-- 🛣️ On the Way to *Cloud Native* and *Architect*
+- 🛣️ Reviewer of [DevStream](https://github.com/devstream-io/devstream)
 - ❤️ **BE PURE BE COOL**
 
 ### Contact
@@ -47,11 +47,5 @@
 ![JetBrains](https://img.shields.io/badge/jetbrains-%23000000.svg?&style=for-the-badge&logo=jetbrains&logoColor=white)
 ![VSCode](https://img.shields.io/badge/vscode-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23FF9800.svg?&style=for-the-badge&logo=sublime%20text&logoColor=white)
-![Notion](https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 ![Chrome](https://img.shields.io/badge/google%20chrome-%234285F4.svg?&style=for-the-badge&logo=google%20chrome&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=Windows%20Terminal&logoColor=white)
-
-![Windows](https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)
-![Debian](https://img.shields.io/badge/debian-%23A81D33.svg?&style=for-the-badge&logo=debian&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/ubuntu-%23E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23A22846.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white)
