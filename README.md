@@ -7,10 +7,18 @@
 - 🪀 **Toy Engineer**
 - 🏬 HDU Freshman
 - 🧑 Core of [HDUHELP](https://github.com/hduhelp)
-- ✒️ [My Blog](https://blog.ljyngup.com)
-- 📺 [My Telegram Channel](https://t.me/iyear)
+- ✒️ [Blog](https://blog.ljyngup.com) & [Telegram Channel](https://t.me/iyear)
 - 🛣️ Reviewer of [DevStream](https://github.com/devstream-io/devstream)
 - ❤️ **BE PURE BE COOL**
+
+### Experiences
+- [OSPP2022](https://summer-ospp.ac.cn/) @[DevStream](https://github.com/devstream-io/ospp-go-grpc): Go Plugin over gRPC | [Public Archive](https://github.com/iyear/go-plugin-grpc)
+  - Lightweight Golang two-way communication plugin framework.
+  - Built-in health check, plugin management, logging and other extensions.
+  - Complete test coverage and easy to use.
+- Internship @[Merico.dev](https://www.merico.dev/): Open Source Development & Operations
+  - Maintenance of the community, online content operations: [DevLake](https://github.com/apache/incubator-devlake) [DevStream](https://github.com/devstream-io/devstream)
+  - Design, development, testing, documentation: [DevStream](https://github.com/devstream-io/devstream)
 
 ### Contact
 
