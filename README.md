@@ -18,7 +18,7 @@
   - Complete test coverage and easy to use.
 - **Internship @[Merico.dev](https://www.merico.dev/):** Open Source Development & Operations | 2022.7 ~ Now
   - Maintenance of the community, online content operations: [DevLake](https://github.com/apache/incubator-devlake) [DevStream](https://github.com/devstream-io/devstream)
-  - Design, development, testing, documentation: [DevStream](https://github.com/devstream-io/devstream)
+  - Design, Development, Testing, Documentation: [DevStream](https://github.com/devstream-io/devstream)
 
 ### Contact
 
