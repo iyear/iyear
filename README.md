@@ -16,7 +16,7 @@
   - Lightweight Golang two-way communication plugin framework.
   - Built-in health check, plugin management, logging and other extensions.
   - Complete test coverage and easy to use.
-- **Internship @[Merico.dev](https://www.merico.dev/):** Open Source Development & Operations | 2022.7 ~ Now
+- **Internship @[Merico.dev](https://www.merico.dev/):** Open Source Development & Operations | 2022.7 ~ 2022.9
   - Maintenance of the community, online content operations: [DevLake](https://github.com/apache/incubator-devlake) [DevStream](https://github.com/devstream-io/devstream)
   - Design, Development, Testing, Documentation: [DevStream](https://github.com/devstream-io/devstream)
 
