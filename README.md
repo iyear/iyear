@@ -7,7 +7,7 @@
 - 🪀 **Toy Engineer**
 - 🏬 HDU Sophomore
 - 🧑 Core of [HDUHELP](https://github.com/hduhelp)
-- ✒️ [Blog](https://blog.ljyngup.com) & [Telegram Channel](https://t.me/iyear)
+- ✒️ [Blog](https://iyear.me) & [Telegram Channel](https://t.me/iyear)
 - 🛣️ Reviewer of [DevStream](https://github.com/devstream-io/devstream)
 - ❤️ **BE PURE BE COOL**
 
