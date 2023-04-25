@@ -1,4 +1,3 @@
-
 ### Hi there 👋
 
 - 🐭 Gopher → 🦀 Rustacean
@@ -28,3 +27,7 @@
 ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23FF9800.svg?&style=for-the-badge&logo=sublime%20text&logoColor=white)
 ![Chrome](https://img.shields.io/badge/google%20chrome-%234285F4.svg?&style=for-the-badge&logo=google%20chrome&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=Windows%20Terminal&logoColor=white)
+
+### Doing
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31s6rhh7puhqyw7bwvqkiexnx27e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31s6rhh7puhqyw7bwvqkiexnx27e&redirect=true)
