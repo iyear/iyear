@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=iyear&show_icons=true&icon_color=0366d6&bg_color=ffffff&count_private=true&hide_title=true&include_all_commits=true" alt="iyear's github stats"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=iyear&show_icons=true&icon_color=0366d6&bg_color=ffffff&count_private=true&hide_title=true" alt="iyear's github stats"/>
 
 - 🐭 Gopher → 🦀 Rustacean
 - 🪀 **Toy Engineer**
