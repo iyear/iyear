@@ -7,5 +7,5 @@
 </p>
 <p align="center"><samp>🌎 Stats</samp></p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iyear&show_icons=true&icon_color=0366d6&bg_color=ffffff&count_private=true&hide_title=true&hide_rank=true&hide=contribs">
+  <img src="https://github-readme-stats.vercel.app/api?username=iyear&show_icons=true&theme=graywhite&count_private=true&hide_title=true&hide_rank=true&hide=contribs&text_bold=false">
 </p>
