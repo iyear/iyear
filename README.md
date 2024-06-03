@@ -10,5 +10,5 @@
 </p>
 <p align="center"><samp>🌎 Stats</samp></p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iyear&show_icons=true&theme=graywhite&count_private=true&hide_title=true&hide_rank=true&hide=contribs&text_bold=false">
+  <img src="https://github-readme-stats.vercel.app/api?username=iyear&show_icons=true&theme=graywhite&count_private=true&hide_title=true&hide_rank=true&hide=contribs&text_bold=false&include_all_commits=true">
 </p>
